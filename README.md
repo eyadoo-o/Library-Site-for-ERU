@@ -11,50 +11,28 @@
 </p>
 
 ---
+📚 Enhancing Learning and Collaboration at ERU
 
-# 📚 Enhancing Learning and Collaboration at ERU
+A web-based platform built for the Egyptian Russian University (ERU) to streamline academic resource management and enhance collaboration among students and staff.
 
-**Enhancing Learning and Collaboration at ERU** is a web-based platform developed for the **Egyptian Russian University** to streamline academic resource management and foster collaboration among students and staff.
+🔹 Developed using Laravel (MVC) with Fortify & Jetstream for secure authentication and role-based access.🔹 Features book & document management, event registration, skill exchange, admin dashboards, multilingual support, and activity tracking.🔹 Designed for scalability, usability, and continuous improvement with integrated feedback and feature request mechanisms.
 
-The platform provides a **unified system** for managing **books, documents, events, skills, reservations, and user interactions**, thereby enhancing both learning and administrative efficiency.
+🚀 Tech Stack
 
----
+Framework: Laravel
 
-## 🚀 About the Project
+Language: PHP
 
-The methodology centers on the use of the **Laravel framework**, incorporating **Fortify and Jetstream** for secure authentication and user management.
+Database: MySQL
 
-- ✅ **MVC Architecture** with modular structure  
-- ✅ **Blade Components** for consistent and reusable UI  
-- ✅ **Book & Document Management**  
-- ✅ **Event Registration & Skill Exchange**  
-- ✅ **Admin Dashboards for management and monitoring**  
-- ✅ **Multilingual Support**  
-- ✅ **Activity Tracking (reading history & document views)**  
+Frontend: Blade Templates + Tailwind CSS
 
----
+Authentication: Fortify & Jetstream
 
-## ✨ Key Outcomes
+Version Control: Git & GitHub
 
-The platform successfully integrates resource management with collaborative tools, providing a **seamless experience for students and administrators**.  
+📦 Installation
 
-It includes **feedback and feature request mechanisms** for continuous improvement, robust testing, and **internationalization for accessibility and reliability**.
-
----
-
-## 🛠️ Tech Stack
-
-- **Framework:** Laravel  
-- **Authentication:** Laravel Fortify & Jetstream  
-- **Frontend:** Blade Components  
-- **Database:** MySQL  
-- **Localization:** Laravel Localization  
-
----
-
-## 📦 Installation
-
-```bash
 # Clone repository
 git clone https://github.com/eyadoo-o/Library-Site-for-ERU.git
 
@@ -69,3 +47,11 @@ php artisan migrate
 
 # Start development server
 php artisan serve
+
+📸 Features
+
+✅ Book & Document Management✅ Event Registration & Skill Exchange✅ Admin Dashboard & Activity Tracking✅ Multilingual Support✅ Role-Based Secure Authentication
+
+📜 License
+
+This project is licensed under CC BY-NC-SA 4.0.🔗 Read License
